@@ -1,0 +1,42 @@
+[
+    {
+      "status": "Sara",
+      "message": "",
+      "statcountryCodeus": "US",
+      "countryName": "United",
+      "regionName": "",
+      "cityName": "",
+      "zoneName": "",
+      "abbreviation": "",
+
+       "gmtOffset": 18000,
+       "dst": "1",
+       "zoneStart": 1710057600,
+       "zoneEnd": 1730617199,
+       "nextAbbreviation": "CST",
+       "timestamp": 1729824262,
+       "formatted": "2024-10-25 02:44:22",
+     },
+
+     {
+        "status": "OK",
+        "message": "",
+        "statcountryCodeus": "BR",
+        "countryName": "Brazil",
+        "regionName": "",
+        "cityName": "",
+        "zoneName": "America/Sao_Paulo",
+        "abbreviation": "BRT",
+  
+         "gmtOffset": 18000,
+         "dst": "1",
+         "zoneStart": 1550368800,
+         "zoneEnd": null,
+         "nextAbbreviation": null,
+         "timestamp": 1729831352,
+         "formatted": "2024-10-25 04:42:32",
+       }
+  
+    
+  ]
+
